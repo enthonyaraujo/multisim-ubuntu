@@ -24,7 +24,7 @@ Espere concluir a instalação.
 Para iniciar o Multisim:
 
 ```
-WINEPREFIX=~/wol/multisim14 wine "C:\Program Files\National Instruments\Circuit Design Suite 14.1\Multisim.exe"
+WINEPREFIX=~/wol/multisim14 wine "C:\Program Files\National Instruments\Circuit Design Suite 14.1\Multisim.exe""
 ```
 
 
